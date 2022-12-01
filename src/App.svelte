@@ -1,6 +1,3 @@
-<script lang="ts">
-  import svelteLogo from './assets/svelte.svg'
-</script>
 
 <main>
   <h1>Lacteos San Esteban </h1>
